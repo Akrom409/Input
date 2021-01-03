@@ -1,0 +1,45 @@
+#container {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 33rem;
+  background-color: lightblue;
+  border-radius: 8px;
+  width: 25%;
+  font-family: sans-serif;
+}
+
+h1 {
+	font-size: 33px;
+}
+
+section {
+	padding: 10px;
+}
+
+.in-style, select {
+	margin: 5px;
+	margin-bottom: 5px;
+	color: blue;
+	border-style: solid;
+	border-spacing: 5px;
+	background-color: lightgreen;
+	border-radius: 5px;
+}
+
+.text {
+	width: 700px;
+}
+
+button {
+	margin-top: 10px;
+	background-color: yellow;
+	border-radius: 5px;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: green;
+	font-weight: 700;
+	width: 60px;
+	border-radius: 5px;
+}
